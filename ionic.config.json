@@ -1,0 +1,7 @@
+{
+  "name": "twilio-cordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
